@@ -23,3 +23,4 @@
  
  [Клиентская часть](https://kodaktor.ru/?!=157f210)
   
+[Презентация](https://slides.com/molpik/deck-1#/)
