@@ -20,6 +20,6 @@
  
  [Авторы](https://molpik.herokuapp.com/author)
  
- [Борд](https://kodaktor.ru/?!=2c7160b_20d42)
+ [Клиентская часть](https://kodaktor.ru/?!=2c7160b_20d42)
  
  
