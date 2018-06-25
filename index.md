@@ -9,9 +9,15 @@
  1. Приложение на фреймворке Silex, размещённое на Heroku.
  
  [Умножение](https://comandaherzen.herokuapp.com/mult/5/2)
+ 
  [Сложение](https://comandaherzen.herokuapp.com/plus/5/2)
+ 
  [Вычитание](https://comandaherzen.herokuapp.com/minus/5/2)
+ 
  [Деление](https://comandaherzen.herokuapp.com/div/5/2)
+ 
  [Возведение в степень](https://comandaherzen.herokuapp.com/pow/5/2)
+ 
  [Авторы](https://comandaherzen.herokuapp.com/authors)
+ 
  [Борд](https://kodaktor.ru/web29032018_e4e59)
