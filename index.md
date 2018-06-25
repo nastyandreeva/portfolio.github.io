@@ -8,16 +8,16 @@
 Проекты:
  1. Приложение на фреймворке Silex, размещённое на Heroku.
  
- [Умножение](https://comandaherzen.herokuapp.com/mult/5/2)
+ [Умножение](https://molpik.herokuapp.com/mult/10/2)
  
- [Сложение](https://comandaherzen.herokuapp.com/plus/5/2)
+ [Сложение](https://molpik.herokuapp.com/add/10/2)
  
- [Вычитание](https://comandaherzen.herokuapp.com/minus/5/2)
+ [Вычитание](https://molpik.herokuapp.com/sub/10/2)
  
- [Деление](https://comandaherzen.herokuapp.com/div/5/2)
+ [Деление](https://molpik.herokuapp.com/div/10/2)
  
- [Возведение в степень](https://comandaherzen.herokuapp.com/pow/5/2)
+ [Возведение в степень](https://molpik.herokuapp.com/pow/10/2)
  
- [Авторы](https://comandaherzen.herokuapp.com/authors)
+ [Авторы](https://molpik.herokuapp.com/authors)
  
  [Борд](https://kodaktor.ru/web29032018_e4e59)
