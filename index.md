@@ -18,6 +18,8 @@
  
  [Возведение в степень](https://molpik.herokuapp.com/pow/10/2)
  
- [Авторы](https://molpik.herokuapp.com/authors)
+ [Авторы](https://molpik.herokuapp.com/author)
  
- [Борд](https://kodaktor.ru/web29032018_e4e59)
+ [Борд](https://kodaktor.ru/?!=2c7160b_20d42)
+ 
+ 
